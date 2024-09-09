@@ -52,8 +52,7 @@ git commit -m "Add feature or fix"<br/>
 git push origin feature-name<br/>
 4.Create a pull request on the original repository.<br/>
 
-# Contact
-If you have any questions or need further assistance, please contact [gulamquadir500@gmail.com].<br/>
+
 
 Enjoy working with this React project, and feel free to customize it to your specific needs! We welcome your contributions and hope it serves as a valuable resource for your web development endeavors.<br/>
 
